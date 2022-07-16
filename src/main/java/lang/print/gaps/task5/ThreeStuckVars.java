@@ -8,9 +8,5 @@ public class ThreeStuckVars {
        int  third = 100;
         System.out.println(first + "" +  second + "" +  third);
 
-
-        double division = 11%2;
-        System.out.println(division);
-
     }
 }
